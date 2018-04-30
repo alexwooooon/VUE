@@ -1,6 +1,8 @@
 # Visual Understanding Environment
 
-Visual Understanding Environment (VUE) is a powerful teaching and presentation tool.
+
+
+\\\Visual Understanding Environment (VUE) is a powerful teaching and presentation tool.
 
 ## Code Organization
 
